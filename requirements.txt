@@ -1,0 +1,13 @@
+flask
+torch
+torchvision
+pillow
+numpy
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+lime
+shap
+scikit-image
+requests
